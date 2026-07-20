@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 julius gonzales
 cabaroan bacnotan la union
 25
 i love playing basketball too
+=======
+Julius Grand R.K. S. Gonzales
+Cabaroan Bacnotan La Union
+25
+i love playing Mobile legends
+>>>>>>> 2b0748e4fa7959451ea7c4181e79071b5176262a
